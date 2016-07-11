@@ -13,7 +13,7 @@ public class Basket {
     private static final Map<Item, BigDecimal> items = new ConcurrentHashMap<>();
 
 
-    //this is a git test
+    //this is a git test to see if I can commit.
     public boolean addItem() {
         return false;
 
