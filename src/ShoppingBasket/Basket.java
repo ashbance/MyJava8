@@ -29,4 +29,8 @@ public class Basket {
         return false;
 
     }
+
+    public boolean addNow() {
+        return true;
+    }
 }
