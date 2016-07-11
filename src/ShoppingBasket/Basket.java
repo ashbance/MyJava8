@@ -19,9 +19,13 @@ public class Basket {
 
     }
 
-
     //this is a git test to see if I can commit.
     public boolean addItem3() {
+        return false;
+
+    }
+
+    public boolean addItem2() {
         return false;
 
     }
